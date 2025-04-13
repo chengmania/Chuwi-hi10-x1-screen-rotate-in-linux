@@ -8,6 +8,8 @@ Test it out and let me know how it feels!
 
 
 Set it up to autostart
+Create autostart entry:
+nano ~/.config/autostart/tablet-rotate.desktop
 
 make the program executable 
 chmod +x ~/tablet-rotate.py
